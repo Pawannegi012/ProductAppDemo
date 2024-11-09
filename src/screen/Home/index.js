@@ -96,6 +96,8 @@ import {
               />
             )}  
   
+
+  
             <TouchableOpacity
               style={styles.searchButton}
               onPress={() => setVisible(!visible)}>
